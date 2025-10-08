@@ -1,2 +1,2 @@
 # COT-repository
-A repository to keep COT200 labs code.
+A repository to keep COT2000 labs code.
